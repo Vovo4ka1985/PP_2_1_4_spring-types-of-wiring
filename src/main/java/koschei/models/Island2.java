@@ -1,6 +1,9 @@
 package koschei.models;
 
-public class Island2 {
+
+import koschei.config.AppConfig;
+
+public class Island2 extends AppConfig {
 
     private Wood3 wood;
 
